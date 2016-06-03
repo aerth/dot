@@ -1,0 +1,19 @@
+{
+    "autoindent": true,
+    "colorscheme": "default",
+    "cursorline": false,
+    "gofmt": false,
+    "goimports": true,
+    "ignorecase": false,
+    "indentchar": " ",
+    "linter": true,
+    "ruler": true,
+    "savecursor": false,
+    "saveundo": false,
+    "scrollmargin": 3,
+    "scrollspeed": 2,
+    "statusline": false,
+    "syntax": true,
+    "tabsize": 4,
+    "tabstospaces": false
+}
