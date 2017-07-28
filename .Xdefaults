@@ -1,0 +1,33 @@
+!dark unicode theme (uxterm)
+*unicode: on
+*utf-8: 1
+*utf: 1
+*utf8: 1
+*background:	black
+*foreground:	green
+*font:*terminus*
+uxterm*faceName:Terminus:style=Regular:size=14
+uxterm*font:-*-terminus-medium-*-*-*-14-*-*-*-*-*-*-*
+XClock*hourColor:       #ff0000
+XClock*minuteColor:     #00ffff
+XClock*secondColor:     #ffffff
+XClock*majorColor:      #ff0000
+XClock*minorColor:      #ffffff
+XLoad*background: #0000a3
+Xman*geometry:    954x600
+Xman*topBox:    false
+
+!xterm
+*xterm*faceName: xos4 Terminus:style=Regular
+*XTerm*faceName: xfont
+!*xterm*faceSize: 13
+!*XTerm*faceSize: 13
+*xterm*utf8: on
+*XTerm*utf8: on
+*XTerm*utf8Fonts: on
+*.utf8: on
+*uxterm*font: -*-terminus-*-*-*-*-24-*-*-*-*-*-*-*
+*xterm*font: -*-terminus-*-*-*-*-24-*-*-*-*-*-*-*
+!*Xterm*faceName: -*-terminus-*-*-*-*-24-*-*-*-*-*-*-*
+!*xterm*faceName: -*-terminus-*-*-*-*-24-*-*-*-*-*-*-*
+!URxvt*font:xos4-terminus-*-*-*-*-16-*-*-*-*-*-*-*
